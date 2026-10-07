@@ -1,0 +1,47 @@
+# Generated automatically in your Minecraft instance's config folder on next launch.
+[costs]
+healthCost = true
+durabilityCost = true
+scaleHealthWithLevel = true
+scaleDurabilityWithLevel = true
+freeAtLevel = 100
+baseHealthFraction = 0.8
+
+[skills]
+flameSky = true
+thunderSky = true
+thunderAbyss = true
+celestialSword = true
+swordDomain = true
+thunderStormTerrainDamage = true
+
+[features]
+inventoryFireImmunity = true
+lightningRodShardDrops = true
+itemLegendStories = true
+rotatingCalligraphy = true
+remoteKillExperience = true
+
+
+inventoryFallImmunity = true
+
+[air]
+# R flight without an Air Talisman. Default off.
+flightCheat = false
+flightHealthCost = true
+flightSecondsPerHealth = 2.0
+flightMinimumHealthFraction = 0.40
+repulsion = true
+vortex = true
+windBlade = true
+survivalCloudFlight = true
+thirdPersonCloudParticles = true
+flightMiningCompensation = true
+
+[swordPercentage]
+minimum = 0.05
+maximum = 0.10
+
+
+[lightning]
+boltTerrainDamage = true
